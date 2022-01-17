@@ -1,0 +1,15 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\bin\Debug\netcoreapp3.1\kayıtuyg.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\bin\Debug\netcoreapp3.1\kayıtuyg.deps.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\bin\Debug\netcoreapp3.1\kayıtuyg.runtimeconfig.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\bin\Debug\netcoreapp3.1\kayıtuyg.runtimeconfig.dev.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\bin\Debug\netcoreapp3.1\kayıtuyg.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\bin\Debug\netcoreapp3.1\kayıtuyg.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.AssemblyInfoInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.AssemblyInfo.cs
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kayıtuyg\kayıtuyg\obj\Debug\netcoreapp3.1\kayıtuyg.genruntimeconfig.cache
